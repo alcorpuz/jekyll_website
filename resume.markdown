@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /Resume/
 ---
 
-work in progress....
+work in progress...
