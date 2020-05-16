@@ -4,11 +4,13 @@ title:  "My Goals"
 date:   2020-05-15 19:23:00 -0700
 categories: jekyll update
 ---
-This is my preliminary post to get this project journals started. I am experimenting with GitHub Pages and Jekyll at the moment. I intend on posting all my future projects to this website.
+This is my preliminary post to get this project journal started. I am experimenting with GitHub Pages and Jekyll at the moment. I intend on posting all my future projects to this website. 
+
+If you would like to learn how to make your own [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) static site, this was the resource I used. Also check out [Jekyll](https://https://jekyllrb.com/).  
 
 Planned Projects:  
     1) The Medical Rinse, working with friends on a health science website.  
-    2) Better ME app, Motivational android app  
-    3) Integrum, Fitness app (related to The Medical Rinse)
+    2) Better ME app, motivational Android app.    
+    3) Integrum, fitness app (related to The Medical Rinse).  
     
 

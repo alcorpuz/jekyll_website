@@ -8,7 +8,7 @@ My name is Alex Corpuz. I am currently attending the University of California, I
 
 
 
-<img src='https://alex.corpuz.dev/images/image_self.jpg' width = 700, height = 700)>
+![alex](https://alex.corpuz.dev/images/image_self.jpg)
 
 
 [jekyll-organization]: https://github.com/jekyll
