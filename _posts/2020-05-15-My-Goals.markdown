@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "My Goals"
+date:   2020-05-15 19:23:00 -0700
+categories: jekyll update
+---
+This is my preliminary post to get this project journals started. I am experimenting with GitHub Pages and Jekyll at the moment. I intend on posting all my future projects to this website.
+
+Planned Projects: \
+    1) The Medical Rinse, working with friends on a health science website.\
+    2) Better ME app, Motivational android app\
+    3) Integrum, Fitness app (related to The Medical Rinse)
+    
+
