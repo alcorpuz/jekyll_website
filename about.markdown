@@ -8,7 +8,7 @@ My name is Alex Corpuz. I am currently attending the University of California, I
 
 
 
-![Image of Alex Corpuz](https://alex.corpuz.dev/images/image_self.jpg)
+<img src='https://alex.corpuz.dev/images/image_self.jpg' width = 700, height = 700)>
 
 
 [jekyll-organization]: https://github.com/jekyll
