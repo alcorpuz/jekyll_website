@@ -10,5 +10,3 @@ My name is Alex Corpuz. I am currently attending the University of California, I
 
 ![alex](https://alex.corpuz.dev/images/image_self.jpg)
 
-
-[jekyll-organization]: https://github.com/jekyll
